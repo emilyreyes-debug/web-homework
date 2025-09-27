@@ -1,0 +1,31 @@
+Document Structure:
+<!DOCTYPE html>: Declares the document type and version of HTML being used.
+<html>: The root element of an HTML page, enclosing all other HTML elements.
+<head>: Contains metadata about the HTML document, such as the page title, links to stylesheets, and scripts.
+<title>: Specifies the title of the HTML document, displayed in the browser tab or window title bar.
+<body>: Contains the visible content of the HTML document, including text, images, links, and other elements.
+Text Content:
+<h1> to <h6>: Define headings of different levels, with <h1> being the most important and <h6> the least.
+<p>: Defines a paragraph of text.
+<a>: Creates a hyperlink, linking to another document or resource. The href attribute specifies the destination URL.
+<img>: Embeds an image into the document. The src attribute specifies the image file path, and alt provides alternative text for accessibility.
+<ul>: Defines an unordered (bulleted) list.
+<ol>: Defines an ordered (numbered) list.
+<li>: Defines a list item within <ul> or <ol>.
+<strong>: Indicates strong importance or emphasis, typically displayed as bold text.
+<em>: Indicates emphasis, typically displayed as italic text.
+<span>: A generic inline container for phrasing content, used for styling or scripting specific parts of text.
+<div>: A generic block-level container, used for grouping and styling larger sections of content.
+Forms:
+<form>: Creates an HTML form for user input.
+<input>: Creates various interactive controls for forms, such as text fields, checkboxes, and radio buttons.
+<button>: Creates a clickable button.
+<select>: Creates a dropdown list for selecting options.
+Other Common Tags:
+<br>: Inserts a line break.
+<hr>: Creates a horizontal rule, often used to separate content visually.
+<header>: Represents introductory content or a set of navigational links for a section or the entire document.
+<footer>: Represents a footer for its nearest sectioning content or the nearest root element.
+<nav>: Represents a section of navigation links.
+<article>: Represents a self-contained composition in a document, page, application, or site.
+<section>: Represents a standalone section of a document.
